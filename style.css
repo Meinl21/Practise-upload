@@ -1,0 +1,24 @@
+#testimonials{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#lorem {
+	order: 1;
+}
+#nav{
+	display: flex;
+	justify-content: flex-end;
+}
+
+ul{
+	display: flex;
+
+
+}
+ul li{
+	list-style-type: none;
+	padding-right: 20px;
+	background-color: yellow;
+}
